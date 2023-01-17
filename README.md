@@ -29,5 +29,3 @@
 </div>
 
 ##
-
-![Snake animation](https://github.com/jvsobraz/blob/output/github-contribution-grid-snake.svg)
