@@ -1,4 +1,4 @@
-### Olá, me chamo João Vitor👋
+### Hi, my name is João Vitor👋
 
 - 🌱 I’m currently learning Front-end, Back-end, Database, AI & ChatBot, Python and UX.
 - 🤔 I’m looking for help with looking for a job.
