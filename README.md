@@ -1,6 +1,14 @@
 ### Hi, my name is João Vitor👋
 
-- 🌱 I’m currently learning Front-end, Back-end, Database, AI & ChatBot, Python and UX.
+- 🌱 I’m currently learning:
+- Management: Agile, Scrum, Design Thinking, Business Strategic, UX.
+- Backend: C#, Java, Python, Java Script, Node.js.
+- Frontend: HTML, CSS, Java Script, Bootstrap, React JS.
+- Mobile: Kotlin, React Native e Flutter.
+- Database: SQL Server, Postgres, MySQL.
+- DevOps: Github.
+- AI & ChatBot: Node Red, Pandas.
+
 - 🤔 I’m looking for help with looking for a job.
 - 📫 How to reach me: jvsobraz@hotmail.com
 
