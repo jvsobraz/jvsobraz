@@ -9,7 +9,7 @@
 - DevOps: Github.
 - AI & ChatBot: Node Red, Pandas.
 
-- 🤔 I’m looking for help with looking for a job.
+- !!! Working at Easy System.
 - 📫 How to reach me: jvsobraz@hotmail.com
 
 <div>
