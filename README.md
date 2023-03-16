@@ -9,7 +9,7 @@
 - DevOps: Github.
 - AI & ChatBot: Node Red, Pandas.
 
-- !!! Working at Easy System.
+- 💼 Working at Easy System.
 - 📫 How to reach me: jvsobraz@hotmail.com / jvsobraz@gmail.com / +55 (11) 96198-3448
 
 <div>
