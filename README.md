@@ -10,7 +10,7 @@
 - AI & ChatBot: Node Red, Pandas.
 
 - !!! Working at Easy System.
-- 📫 How to reach me: jvsobraz@hotmail.com
+- 📫 How to reach me: jvsobraz@hotmail.com / jvsobraz@gmail.com / +55 (11) 96198-3448
 
 <div>
   <a href="https://github.com/jvsobraz">
