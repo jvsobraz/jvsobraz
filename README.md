@@ -1,4 +1,4 @@
-### Hi, my name is João Vitor👋<br><br>- 🌱 I’m currently learning:<br>- Management: Agile, Scrum, Design Thinking, Business Strategic, UX.<br>- Backend: C#, Java, Python, Java Script, Node.js.<br>- Frontend: HTML, CSS, Java Script, Bootstrap, React JS.<br>- Mobile: React Native.<br>- Database: SQL Server, MySQL.<br>- DevOps: Github.<br>- AI & ChatBot: Node Red, Pandas.<br><br>- 💼 Working at Easy System.<br>- 📫 How to reach me: jvsobraz@hotmail.com / jvsobraz@gmail.com / +55 (11) 96198-3448
+### Hi, my name is João Vitor <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px"><br><br>- 🌱 I’m currently learning:<br>- Management: Agile, Scrum, Design Thinking, Business Strategic, UX.<br>- Backend: C#, Java, Python, Java Script, Node.js.<br>- Frontend: HTML, CSS, Java Script, Bootstrap, React JS.<br>- Mobile: React Native.<br>- Database: SQL Server, MySQL.<br>- DevOps: Github.<br>- AI & ChatBot: Node Red, Pandas.<br><br>- 💼 Working at Easy System.<br>- 📫 How to reach me: jvsobraz@hotmail.com / jvsobraz@gmail.com / +55 (11) 96198-3448
 
 
 ## 🌐 Socials:
@@ -16,3 +16,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<div align="center">
+
+  ![Snake animation](https://github.com/jvsobraz/jvsobraz/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
