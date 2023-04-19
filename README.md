@@ -14,4 +14,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![](https://github.com/jvsobraz/jvsobraz/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/jvsobraz/jvsobraz/blob/output/github-contribution-grid-snake.svg)
