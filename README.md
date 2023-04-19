@@ -11,9 +11,6 @@
 ![jvsobraz's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=jvsobraz&theme=dark&hide_border=false)</br>
 ![jvsobraz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jvsobraz&layout=compact&langs_count=20&theme=dark)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jvsobraz&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
