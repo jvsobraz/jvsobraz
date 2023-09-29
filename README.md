@@ -1,5 +1,5 @@
 ### Hi, my name is João Vitor <img src="https://github.com/milena-r no amiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px"><br><br>- 🌱 I’m currently learning:
-<br>- Management: Agile, Scrum, UX.<br>- Backend: C#, Java, Python, Node.js, .NET.<br>- Frontend: HTML, CSS, Javascript, ReactJS.<br>- Mobile: React Native, Kotlin.<br>- Database: Oracle, SQL Server, PostgreSQL, MySQL.<br>- Cloud: Microsoft Azure, Docker, Linux.<br>- DevOps: Git, Github.<br>- API: Rest, Microservices.<br>- AI & ChatBot: Node Red, Pandas.<br>- 💼 Looking for a job.<br>- 📫 How to reach me: jvsobraz@hotmail.com / jvsobraz@gmail.com / +55 (11) 96198-3448
+<br>- Management: Agile, Scrum, UX.<br>- Backend: C#, Java, Python, Node.js, .NET.<br>- Frontend: HTML, CSS, Javascript, ReactJS.<br>- Mobile: React Native, Kotlin.<br>- Database: MongoDB, Oracle, SQL Server, PostgreSQL, MySQL.<br>- Cloud: Microsoft Azure, Docker, Linux.<br>- DevOps: Git, Github.<br>- API: Rest, Microservices.<br>- AI & ChatBot: Node Red, Pandas.<br>- 💼 Looking for a job.<br>- 📫 How to reach me: jvsobraz@hotmail.com / jvsobraz@gmail.com / +55 (11) 96198-3448
 
 
 ## 🌐 Socials:
