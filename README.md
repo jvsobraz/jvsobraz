@@ -1,6 +1,6 @@
 ### Hi, my name is João Vitor <img src="https://github.com/milena-r no amiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px"><br><br>- 🌱 What I've learned:
-<br>- Management: Agile, Scrum, UX, QA.<br>- Backend: Java, Python, Node.js, .NET, Spring Framework.<br>- Frontend: HTML, CSS, Javascript, ReactJS.<br>- Mobile: React Native.<br>- Database: MongoDB, Oracle, SQL Server, MySQL, PL/SQL.<br>- Cloud: Docker, Linux.<br>- DevOps: Microsoft Azure, Git, Github.<br>- API: Rest, Microservices.<br>- AI & ChatBot: Node Red, Pandas.<br><br>- I'm currently learning:
-<br>- Angular<br>- C#<br><br>- 💼 Working at Frogpay.<br>- 📫 How to reach me: jvsobraz@hotmail.com / jvsobraz@gmail.com / +55 (11) 96198-3448
+<br>- Management: Agile, Scrum, UX, QA.<br>- Backend: Java, Python, Node.js, Spring Framework.<br>- Frontend: HTML, CSS, Javascript, ReactJS.<br>- Mobile: React Native.<br>- Database: MongoDB, Oracle, SQL Server, MySQL, PL/SQL.<br>- Cloud: Docker, Linux.<br>- DevOps: Microsoft Azure, Git, Github.<br>- API: Rest, Microservices.<br>- AI & ChatBot: Node Red, Pandas.<br><br>- I'm currently learning:
+<br>- Angular<br>- C#, .NET<br><br>- 💼 Working at Frogpay.<br>- 📫 How to reach me: jvsobraz@hotmail.com / jvsobraz@gmail.com / +55 (11) 96198-3448
 
 
 ## 🌐 Socials:
