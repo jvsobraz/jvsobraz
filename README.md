@@ -16,9 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jvsobraz) 
 
 # 📊 GitHub Stats:
-![jvsobraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvsobraz&theme=dark&show_icons=true)
 ![jvsobraz's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=jvsobraz&theme=dark&hide_border=false)</br>
-![jvsobraz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jvsobraz&layout=compact&langs_count=20&theme=dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
