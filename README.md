@@ -1,5 +1,15 @@
-### Hi, my name is João Vitor <img src="https://github.com/milena-r no amiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px"><br><br>- 🌱 What I've learned:
-<br>- Management: Agile, Scrum, UX.<br>- Backend: Java, C#, Spring Framework.<br>- Frontend: HTML, CSS, Javascript, ReactJS.<br>- Mobile: React Native.<br>- Database:  Oracle, SQL Server, MySQL.<br>- Cloud: Docker, Linux.<br>- DevOps: Microsoft Azure, Git, Github.<br>- API: Rest, Microservices.<br>- AI & ChatBot: Node Red, Pandas.<br> <br> Nowadays I'm focused and working in C# . NET <br> <br>- 💼 Working at Frogpay.<br>- 📫 How to reach me: jvsobraz@hotmail.com
+### Hi, my name is João Vitor <img src="https://github.com/milena-r no amiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px"><br>
+<br>- 🌱 What I've learned:<br>
+<br>*Currently studying the Angular programming language.<br> 
+- Management: Agile, Scrum, UX.<br>
+- Backend: Java, C#, Spring Framework, RabbitMQ.<br>
+- Frontend: HTML, CSS, Javascript, ReactJS.<br>
+- Mobile: React Native.<br>
+- Database:  Oracle, SQL Server, MySQL, PostgreSQL.<br>
+- Cloud: Docker.<br>
+- DevOps: Microsoft Azure, Git, Github.<br>
+- API: Rest, Microservices, Worker.<br>
+<br> Nowadays I'm focused and working in C# . NET <br> <br>- 💼 Working at Frogpay.<br>- 📫 How to reach me: jvsobraz@hotmail.com
 
 
 ## 🌐 Socials:
