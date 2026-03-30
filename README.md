@@ -17,7 +17,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaoo.braz/)
 
 # 📊 GitHub Stats:
-![jvsobraz's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=jvsobraz&theme=dark&hide_border=false)</br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jvsobraz&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
